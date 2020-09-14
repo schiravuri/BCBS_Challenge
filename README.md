@@ -9,6 +9,7 @@ These modules (Orchestration.py and DataPreprocessing.py) can be used to process
 3. os
 4. requests
 5. errno
+6. SQLite
 
 ## Usage
 To run, simply call run like so at the command line:
